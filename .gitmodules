@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "autoScorecard"]
 	path = autoScorecard
 	url = https://github.com/cran/autoScorecard
-	shallow = true
-	registered = true
 [submodule "convertbonds"]
 	path = convertbonds
 	url = https://github.com/aughunter/convertbonds
-	shallow = true
-	registered = true
